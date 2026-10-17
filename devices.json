@@ -1,0 +1,28 @@
+{
+    "8299684301": {
+        "unique_device_id": "Google|d7826faa-e2b9-4702-ad9d-c53e310a003a",
+        "brand": "Samsung",
+        "model": "SM-G998B",
+        "gpu_renderer": "Adreno (TM) 660",
+        "system_software": "Android OS 12 / API-31",
+        "screen_width": 1080,
+        "screen_height": 2400,
+        "screen_dpi": "324",
+        "memory": 4427,
+        "processor_details": "ARM64 FP ASIMD AES VMH | 3089 | 7",
+        "client_ip": "186.37.169.159"
+    },
+    "8299497619": {
+        "unique_device_id": "Google|fb9dd34b-74e9-4142-935d-a4c7dcfe08fc",
+        "brand": "Realme",
+        "model": "RMX3700",
+        "gpu_renderer": "Mali-G710",
+        "system_software": "Android OS 14 / API-34",
+        "screen_width": 720,
+        "screen_height": 2400,
+        "screen_dpi": "302",
+        "memory": 4017,
+        "processor_details": "ARM64 FP ASIMD AES VMH | 2893 | 11",
+        "client_ip": "194.71.78.83"
+    }
+}
